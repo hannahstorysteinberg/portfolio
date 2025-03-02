@@ -11,7 +11,7 @@
     "href": "index.html#education",
     "title": "Hannah Steinberg",
     "section": "Education",
-    "text": "Education\nArizona State University | Tempe, AZ\nPhD in Quantitative Psychology | August 2025 - May 2030\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S in Cognitive Science with a Specialization in Computing | August 2021 - June 2025\nB.S in Statistics and Data Science | August 2021 - June 2025\nResume!"
+    "text": "Education\nArizona State University | Tempe, AZ\nPhD in Quantitative Psychology | August 2025 - May 2030\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S in Cognitive Science with a Specialization in Computing | August 2021 - June 2025\nB.S in Statistics and Data Science | August 2021 - June 2025"
   },
   {
     "objectID": "index.html#research-experience",
@@ -53,7 +53,7 @@
     "href": "misc.html",
     "title": "Misc",
     "section": "",
-    "text": "Outside of school, Hannah enjoys rock climbing, baking/cooking, playing board/video games, and ropes courses."
+    "text": "Outside of school, I enjoy rock climbing, baking/cooking, playing board/video games, and ropes courses."
   },
   {
     "objectID": "work.html#lead-instructor",
@@ -166,5 +166,19 @@
     "title": "Misc",
     "section": "",
     "text": "Outside of school, Hannah enjoys rock climbing, baking/cooking, playing board/video games, and ropes courses."
+  },
+  {
+    "objectID": "course.html#audited-classes",
+    "href": "course.html#audited-classes",
+    "title": "Coursework",
+    "section": "Audited Classes",
+    "text": "Audited Classes\nI have also audited Professor Amanda Montoya’s class in Mediation, Moderation, and Conditional Process Analysis, as well as Professor Yi Feng’s class in Structural Equation Modeling."
+  },
+  {
+    "objectID": "misc.html#about-me",
+    "href": "misc.html#about-me",
+    "title": "Misc",
+    "section": "",
+    "text": "Outside of school, I enjoy rock climbing, baking/cooking, playing board/video games, and ropes courses."
   }
 ]
