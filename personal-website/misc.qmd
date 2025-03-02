@@ -2,4 +2,32 @@
 title: "Misc"
 ---
 
-Outside of school, Hannah enjoys rock climbing, baking/cooking, playing board/video games, and ropes courses. 
+Outside of school, Hannah enjoys rock climbing, baking/cooking, playing board/video games, ropes courses, and petting animals. 
+
+<div class="container">
+  <div class="row">
+
+    <div class="col-md-3 col-sm-6 text-center">
+      <img src="photo3.jpg" class="img-fluid rounded">
+      <p>USAC Climbing Competition</p>
+    </div>
+
+  </div>
+</div>
+
+```{r echo = FALSE}
+library(knitr)
+include_graphics(path = "photo3.jpg")
+include_graphics(path = "photo4.jpg")
+include_graphics(path = "photo5.jpg")
+include_graphics(path = "photo6.jpeg")
+include_graphics(path = "photo7.jpg")
+include_graphics(path = "photo8.jpg")
+include_graphics(path = "photo9.jpg")
+include_graphics(path = "photo10.jpg")
+include_graphics(path = "photo11.jpg")
+include_graphics(path = "photo12.jpg")
+include_graphics(path = "photo13.jpg")
+include_graphics(path = "photo14.jpg")
+```
+
