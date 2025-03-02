@@ -10,6 +10,9 @@ about:
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/hannah-steinberg-329384312/
+    - icon: book
+      text: Resume
+      href: resume.pdf
 ---
 
 Hannah Steinberg is a fourth year at UCLA majoring in Cognitive Science and Statistics. 
@@ -34,4 +37,3 @@ B.S in Cognitive Science with a Specialization in Computing | August 2021 - June
 
 B.S in Statistics and Data Science | August 2021 - June 2025
 
-[Resume!](resume.pdf)
