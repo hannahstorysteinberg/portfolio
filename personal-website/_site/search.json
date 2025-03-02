@@ -46,7 +46,7 @@
     "href": "research.html",
     "title": "Research Experience",
     "section": "",
-    "text": "description\nresponsibilities"
+    "text": "I was already intrigued by the discussion of noisy channel processing from Professor Blank’s Language as a Cognitive Science class so I decided to focus my research on noisy channel processing in handwriting, and more specifically manipulating the plausibility and legibility of written sentences to see if the participant’s perception of a “typo” changes. Being able to work through the entire research process, from determining and fine tuning the topic to the experimental design, implementation, and coding of the experiments has been an incredibly exciting opportunity. In fact, I have designed and run 3 experiments: one to collect handwritten stimuli, another to norm said stimuli, and then a final experiment to test participants noisy channel inferences.\n\n\nThe success of decoding handwritten text highly depends on the legibility of the author’s handwriting. When illegible handwriting has several, alternative, interpretations—i.e., the communication channel is noisy rather than pristine—we hypothesize that individuals rationally combine two sources of information: (1) bottom-up, sensory evidence (i.e., what letter is this squiggle similar to?), and (2) top-down common sense (i.e., what interpretations are more plausible?). To characterize such “noisy channel comprehension” (Gibson et al. 2013, 2017), we asked how readers decode legible vs. illegible sentences, handwritten by UCLA students, whose meaning are implausible, but are a single letter away from a plausible alternative (e.g., “mom got a dog but the baby was upset by all the banks”, which could be “barks”). By asking readers to re-type, on a keyboard, the handwritten sentences presented to them, we test two predictions of rational comprehension: first, when the handwriting is illegible (vs. legible), readers will be more likely interpret sentences non-literally by “fixing” perceived mistakes to make the meaning plausible (retyping “banks” as “barks”). Second, when the written letter is visually similar to its plausible alternative (e.g., n vs. r), readers will be more likely to “fix” the perceived mistake compared to when those letters are dissimilar (e.g., g vs. m)"
   },
   {
     "objectID": "misc.html",
@@ -108,36 +108,36 @@
     "objectID": "research.html#independent-project-on-mixed-effects-logistic-multilevel-modeling",
     "href": "research.html#independent-project-on-mixed-effects-logistic-multilevel-modeling",
     "title": "Research Experience",
-    "section": "",
-    "text": "description\nresponsibilities"
+    "section": "Independent Project on Mixed-Effects Logistic Multilevel Modeling",
+    "text": "Independent Project on Mixed-Effects Logistic Multilevel Modeling\n\nMentor: Amanda Montoya\n\nSeptember 2024 - June 2025\nIn order to analyze the data from my honors thesis, which is a crossed design with a dichotomous outcome, I have been running a simulation study to create some fake data with the same structure as the data will be from my experiment. The goal is for me to learn how to analyze my own data, so I can really understand how my analysis will work. I have been building my model up, from simple logistic regression, to adding random intercepts for each element of my study."
   },
   {
     "objectID": "research.html#honors-thesis-on-noisy-channel-processing-in-handwritten-text",
     "href": "research.html#honors-thesis-on-noisy-channel-processing-in-handwritten-text",
     "title": "Research Experience",
-    "section": "Honors Thesis on Noisy Channel Processing in Handwritten Text",
-    "text": "Honors Thesis on Noisy Channel Processing in Handwritten Text\n\nMentor: Idan Blank\n\nAugust 2024 - June 2025\ndescription\nresponsibilities"
+    "section": "",
+    "text": "I was already intrigued by the discussion of noisy channel processing from Professor Blank’s Language as a Cognitive Science class so I decided to focus my research on noisy channel processing in handwriting, and more specifically manipulating the plausibility and legibility of written sentences to see if the participant’s perception of a “typo” changes. Being able to work through the entire research process, from determining and fine tuning the topic to the experimental design, implementation, and coding of the experiments has been an incredibly exciting opportunity. In fact, I have designed and run 3 experiments: one to collect handwritten stimuli, another to norm said stimuli, and then a final experiment to test participants noisy channel inferences.\n\n\nThe success of decoding handwritten text highly depends on the legibility of the author’s handwriting. When illegible handwriting has several, alternative, interpretations—i.e., the communication channel is noisy rather than pristine—we hypothesize that individuals rationally combine two sources of information: (1) bottom-up, sensory evidence (i.e., what letter is this squiggle similar to?), and (2) top-down common sense (i.e., what interpretations are more plausible?). To characterize such “noisy channel comprehension” (Gibson et al. 2013, 2017), we asked how readers decode legible vs. illegible sentences, handwritten by UCLA students, whose meaning are implausible, but are a single letter away from a plausible alternative (e.g., “mom got a dog but the baby was upset by all the banks”, which could be “barks”). By asking readers to re-type, on a keyboard, the handwritten sentences presented to them, we test two predictions of rational comprehension: first, when the handwriting is illegible (vs. legible), readers will be more likely interpret sentences non-literally by “fixing” perceived mistakes to make the meaning plausible (retyping “banks” as “barks”). Second, when the written letter is visually similar to its plausible alternative (e.g., n vs. r), readers will be more likely to “fix” the perceived mistake compared to when those letters are dissimilar (e.g., g vs. m)"
   },
   {
     "objectID": "research.html#amanda-montoyas-qrclab-pre-post-multiverse-mediation-analysis",
     "href": "research.html#amanda-montoyas-qrclab-pre-post-multiverse-mediation-analysis",
     "title": "Research Experience",
     "section": "Amanda Montoya’s QRClab: Pre-Post Multiverse Mediation Analysis",
-    "text": "Amanda Montoya’s QRClab: Pre-Post Multiverse Mediation Analysis\n\nResearch Assistent\n\nSeptember 2024 - June 2025\ndescription\nresponsibilities"
+    "text": "Amanda Montoya’s QRClab: Pre-Post Multiverse Mediation Analysis\n\nResearch Assistent\n\nSeptember 2024 - June 2025\nThis project has been extremely exciting to work on. We are accessing mediation with a multiverse analysis for designs with multiple timepoints. The multiverse design is 5 mediation models: ANCOVA, TAM, Difference Score, Residualized, and Cross-Sectional. I have been classifying papers to see if they fit our inclusion, and I have been able to help with the coding of the mediation models, giving me first-hand experience coding with Lavaan."
   },
   {
     "objectID": "research.html#amanda-montoyas-qrclab-registered-reports-vs.-traditional-papers",
     "href": "research.html#amanda-montoyas-qrclab-registered-reports-vs.-traditional-papers",
     "title": "Research Experience",
     "section": "Amanda Montoya’s QRClab: Registered Reports vs. Traditional Papers",
-    "text": "Amanda Montoya’s QRClab: Registered Reports vs. Traditional Papers\n\nResearch Assistent\n\nJune 2024 - June 2025\ndescription\nresponsibilities"
+    "text": "Amanda Montoya’s QRClab: Registered Reports vs. Traditional Papers\n\nResearch Assistent\n\nJune 2024 - June 2025\nI have assisted on a project examining the differences in research practices for registered reports vs. traditional papers. I have been helping in the stratified sampling process, along with other procedures such as classifying careless responding, and classifying articles as registered reports or traditional papers."
   },
   {
     "objectID": "research.html#idan-blanks-blanklanglab-replication-of-a-study-on-cognitive-control",
     "href": "research.html#idan-blanks-blanklanglab-replication-of-a-study-on-cognitive-control",
     "title": "Research Experience",
     "section": "Idan Blank’s BlankLangLab: Replication of a study on Cognitive Control",
-    "text": "Idan Blank’s BlankLangLab: Replication of a study on Cognitive Control\n\nResearch Assistent\n\nSeptember 2023 - June 2024\ndescription\nresponsibilities"
+    "text": "Idan Blank’s BlankLangLab: Replication of a study on Cognitive Control\n\nResearch Assistent\n\nSeptember 2023 - June 2024\nTo explore domain-general cognitive control in language comprehension, Professor Idan Blank and I replicated a paper on how language processing is influenced by domain general cognitive control (a component of fluid intelligence). The project tested whether nonlinguistic cognitive control training can lead to improvement on different linguistic tasks. For example, we were testing if N-back training improved reading time in garden-path sentences and in sentences with subject vs. object extracted relative clauses. I created complex and tightly controlled linguistic stimuli and created a program to generate the N-back sequences. A prominent obstacle in psycholinguistic research is lack of relevant stimuli, which I have tried to help remedy through my work. Due to the complexity of these structures, psycholinguists have only used a few sentences of these kinds, so my sentences not only bolstered our experiment, but will also be a helpful tool for future researchers."
   },
   {
     "objectID": "course.html#relevent-psychology-coursework",
