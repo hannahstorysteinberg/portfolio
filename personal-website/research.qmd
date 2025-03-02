@@ -8,9 +8,7 @@ title: "Research Experience"
 ### Mentor: Idan Blank
 #### August 2024 - June 2025
 
-I was already intrigued by the discussion of noisy channel processing from Professor Blank’s Language as a Cognitive Science class so I decided to focus my research on noisy channel processing in handwriting, and more specifically manipulating the plausibility and legibility of written sentences to see if the participant’s perception of “typo” changes. Being able to work through the entire research process, from determining and fine tuning the topic to the experimental design, implementation, and coding of the experiments has been an incredibly exciting opportunity, especially as an application of measurement theory. A large part of this experiment is figuring out how to quantify the participant’s perception of the sentences. I ultimately decided to have the participants re-type the sentences, because it is the most accurate way to determine if the participants have read the sentence correctly (if they didn’t, they would retype it incorrectly). But there are many solutions to quantifying this concept, and I found it a challenging puzzle figuring out how to determine the best one.
-
-I have designed and run 3 experiments: one to collect handwritten stimuli, another to norm said stimuli, and then a final experiment to test participants noisy channel inferences. 
+I was already intrigued by the discussion of noisy channel processing from Professor Blank’s Language as a Cognitive Science class so I decided to focus my research on noisy channel processing in handwriting, and more specifically manipulating the plausibility and legibility of written sentences to see if the participant’s perception of a “typo” changes. Being able to work through the entire research process, from determining and fine tuning the topic to the experimental design, implementation, and coding of the experiments has been an incredibly exciting opportunity. In fact, I have designed and run 3 experiments: one to collect handwritten stimuli, another to norm said stimuli, and then a final experiment to test participants noisy channel inferences.
 
 ##### An abstract of the project:
 
@@ -21,7 +19,7 @@ The success of decoding handwritten text highly depends on the legibility of the
 ### Mentor: Amanda Montoya
 #### September 2024 - June 2025
 
-In order to analyze the data from my honors thesis,
+In order to analyze the data from my honors thesis, which is a crossed design with a dichotomous outcome, I have been running a simulation study to create some fake data with the same structure as the data will be from my experiment. The goal is for me to learn how to analyze my own data, so I can really understand how my analysis will work. I have been building my model up, from simple logistic regression, to adding random intercepts for each element of my study.  
 
 ## Amanda Montoya's QRClab: Pre-Post Multiverse Mediation Analysis
 ### Research Assistent
