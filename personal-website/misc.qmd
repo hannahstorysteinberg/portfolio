@@ -1,5 +1,5 @@
 ---
-title: "Misc"
+title: "About"
 filters:
   - lightbox
 lightbox: TRUE
@@ -9,7 +9,7 @@ lightbox: TRUE
 ## About Me!
 
 
-Outside of school, I enjoy rock climbing, baking/cooking, playing board/video games, and ropes courses.
+Outside of school, I enjoy rock climbing, baking/cooking, playing board/video games, ropes courses, and petting animals.
 
 
 ## Photo Gallery (Click the photo!)
