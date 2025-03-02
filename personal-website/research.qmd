@@ -15,10 +15,14 @@ responsibilities
 ### Mentor: Idan Blank
 #### August 2024 - June 2025
 
+I was already intrigued by the discussion of noisy channel processing from Professor Blank’s Language as a Cognitive Science class so I decided to focus my research on noisy channel processing in handwriting, and more specifically manipulating the plausibility and legibility of written sentences to see if the participant’s perception of “typo” changes. Being able to work through the entire research process, from determining and fine tuning the topic to the experimental design, implementation, and coding of the experiments has been an incredibly exciting opportunity, especially as an application of measurement theory. A large part of this experiment is figuring out how to quantify the participant’s perception of the sentences. I ultimately decided to have the participants re-type the sentences, because it is the most accurate way to determine if the participants have read the sentence correctly (if they didn’t, they would retype it incorrectly). But there are many solutions to quantifying this concept, and I found it a challenging puzzle figuring out how to determine the best one.
 
-description
+I have designed and run 3 experiments: one to collect handwritten stimuli, another to norm said stimuli, and then a final experiment to test participants noisy channel inferences. 
 
-responsibilities
+##### An abstract of the project:
+
+The success of decoding handwritten text highly depends on the legibility of the author’s handwriting. When illegible handwriting has several, alternative, interpretations—i.e., the communication channel is noisy rather than pristine—we hypothesize that individuals rationally combine two sources of information: (1) bottom-up, sensory evidence (i.e., what letter is this squiggle similar to?), and (2) top-down common sense (i.e., what interpretations are more plausible?). To characterize such “noisy channel comprehension” (Gibson et al. 2013, 2017), we asked how readers decode legible vs. illegible sentences, handwritten by UCLA students, whose meaning are implausible, but are a single letter away from a plausible alternative (e.g., “mom got a dog but the baby was upset by all the banks”, which could be “barks”). By asking readers to re-type, on a keyboard, the handwritten sentences presented to them, we test two predictions of rational comprehension: first, when the handwriting is illegible (vs. legible), readers will be more likely interpret sentences non-literally by “fixing” perceived mistakes to make the meaning plausible (retyping “banks” as “barks”). Second, when the written letter is visually similar to its plausible alternative (e.g., n vs. r), readers will be more likely to “fix” the perceived mistake compared to when those letters are dissimilar (e.g., g vs. m)
+
 
 
 
@@ -47,6 +51,5 @@ responsibilities
 ### Research Assistent
 #### September 2023 - June 2024
 
-description
+To explore domain-general cognitive control in language comprehension, Professor Idan Blank and I replicated a paper on how language processing is influenced by domain general cognitive control (a component of fluid intelligence). The project tested whether nonlinguistic cognitive control training can lead to improvement on different linguistic tasks. For example, we were testing if N-back training improved reading time in garden-path sentences and in sentences with subject vs. object extracted relative clauses. I created complex and tightly controlled linguistic stimuli and created a program to generate the N-back sequences. A prominent obstacle in psycholinguistic research is lack of relevant stimuli, which I have tried to help remedy through my work. Due to the complexity of these structures, psycholinguists have only used a few sentences of these kinds, so my sentences not only bolstered our experiment, but will also be a helpful tool for future researchers. 
 
-responsibilities

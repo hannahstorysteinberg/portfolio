@@ -41,3 +41,6 @@ coding_courses <- data.frame(
 datatable(coding_courses, options = list(dom = 't',ordering = FALSE),rownames = FALSE)
 ```
 
+## Audited Classes
+
+I have also audited Professor Amanda Montoya's class in Mediation, Moderation, and Conditional Process Analysis, as well as Professor Yi Feng's class in Structural Equation Modeling. 
