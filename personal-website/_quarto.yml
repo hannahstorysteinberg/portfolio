@@ -19,4 +19,6 @@ format:
     toc: true
 
 editor: visual
+execute: 
+  freeze: auto
 pre-render: generate-gallery.ts
