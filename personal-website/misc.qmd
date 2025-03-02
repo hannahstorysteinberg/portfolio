@@ -11,14 +11,19 @@ Outside of school, Hannah enjoys rock climbing, baking/cooking, playing board/vi
       <img src="photo3.jpg" class="img-fluid rounded">
       <p>USAC Climbing Competition</p>
     </div>
-
+    <div class="col-md-3 col-sm-6 text-center">
+      <img src="photo4.jpg" class="img-fluid rounded">
+      <p>Moon Board</p>
+    </div>
+    
+    
+    
   </div>
 </div>
 
 ```{r echo = FALSE}
 library(knitr)
 include_graphics(path = "photo3.jpg")
-include_graphics(path = "photo4.jpg")
 include_graphics(path = "photo5.jpg")
 include_graphics(path = "photo6.jpeg")
 include_graphics(path = "photo7.jpg")
