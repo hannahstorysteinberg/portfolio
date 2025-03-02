@@ -5,21 +5,19 @@ about:
   image: photo.jpg
   links:
     - icon: email
-      text: eEail
+      text: Email
       href: mailto:hannahsteinberg@g.ucla.edu
     - icon: linkedin
       text: Linkedin
       href: https://www.linkedin.com/in/hannah-steinberg-329384312/
-    - icon: book
-      text: Resume
-      href: resume.pdf
+
 ---
 
 Hannah Steinberg is a fourth year at UCLA majoring in Cognitive Science and Statistics. 
 
 Hannah's research background is in psycholinguistics, with a focus on cognitive control and noisy channel processing. 
 
-Hannah's overall research interests are in the quantiative psychology world: in measurement and item response theory, with a focus on differential item functioning and measurement invariance. 
+Hannah's overall research goals are in the quantitative psychology world, specifically in measurement and item response theory, with a focus on differential item functioning and measurement invariance. 
 
 ## Education
 
