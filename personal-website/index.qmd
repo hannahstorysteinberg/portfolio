@@ -1,11 +1,37 @@
 ---
-title: "personal-website"
+title: "Hannah Steinberg"
+about: 
+  template: trestles
+  image: photo.jpg
+  links:
+    - icon: email
+      text: email
+      href: mailto:hannahsteinberg@g.ucla.edu
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/hannah-steinberg-329384312/
 ---
 
-This is a Quarto website.
+Hannah Steinberg is a fourth year at UCLA majoring in Cognitive Science and Statistics. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hannah's research background is in psycholinguistics, with a focus on cognitive control and noisy channel processing. 
 
-```{r}
-1 + 1
-```
+Hannah's overall research interests are in the quantiative psychology world: in measurement and item response theory, with a focus on differential item functioning and measurement invariance. 
+
+## Education
+
+**Arizona State University | Tempe, AZ**
+
+
+PhD in Quantitative Psychology | August 2025 - May 2030
+
+
+**University of California, Los Angeles | Los Angeles, CA**
+
+
+B.S in Cognitive Science with a Specialization in Computing | August 2021 - June 2025
+
+
+B.S in Statistics and Data Science | August 2021 - June 2025
+
+

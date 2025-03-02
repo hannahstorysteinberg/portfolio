@@ -2,12 +2,15 @@ project:
   type: website
 
 website:
-  title: "personal-website"
+  title: "Hannah Steinberg"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - course.qmd
+      - work.qmd
+      - research.qmd
+      - misc.qmd
 
 format:
   html:
