@@ -2,13 +2,6 @@
 title: "Research Experience"
 ---
 
-## Independent Project on Mixed-Effects Logistic Multilevel Modeling
-### Mentor: Amanda Montoya
-#### September 2024 - June 2025
-
-description
-
-responsibilities
 
 
 ## Honors Thesis on Noisy Channel Processing in Handwritten Text
@@ -24,26 +17,24 @@ I have designed and run 3 experiments: one to collect handwritten stimuli, anoth
 The success of decoding handwritten text highly depends on the legibility of the author’s handwriting. When illegible handwriting has several, alternative, interpretations—i.e., the communication channel is noisy rather than pristine—we hypothesize that individuals rationally combine two sources of information: (1) bottom-up, sensory evidence (i.e., what letter is this squiggle similar to?), and (2) top-down common sense (i.e., what interpretations are more plausible?). To characterize such “noisy channel comprehension” (Gibson et al. 2013, 2017), we asked how readers decode legible vs. illegible sentences, handwritten by UCLA students, whose meaning are implausible, but are a single letter away from a plausible alternative (e.g., “mom got a dog but the baby was upset by all the banks”, which could be “barks”). By asking readers to re-type, on a keyboard, the handwritten sentences presented to them, we test two predictions of rational comprehension: first, when the handwriting is illegible (vs. legible), readers will be more likely interpret sentences non-literally by “fixing” perceived mistakes to make the meaning plausible (retyping “banks” as “barks”). Second, when the written letter is visually similar to its plausible alternative (e.g., n vs. r), readers will be more likely to “fix” the perceived mistake compared to when those letters are dissimilar (e.g., g vs. m)
 
 
+## Independent Project on Mixed-Effects Logistic Multilevel Modeling
+### Mentor: Amanda Montoya
+#### September 2024 - June 2025
 
+In order to analyze the data from my honors thesis,
 
 ## Amanda Montoya's QRClab: Pre-Post Multiverse Mediation Analysis
 ### Research Assistent
 #### September 2024 - June 2025
 
-description
-
-responsibilities
-
+This project has been extremely exciting to work on. We are accessing mediation with a multiverse analysis for designs with multiple timepoints. The multiverse design is 5 mediation models: ANCOVA, TAM, Difference Score, Residualized, and Cross-Sectional. I have been classifying papers to see if they fit our inclusion, and I have been able to help with the coding of the mediation models, giving me first-hand experience coding with Lavaan. 
 
 
 ## Amanda Montoya's QRClab: Registered Reports vs. Traditional Papers
 ### Research Assistent
 #### June 2024 - June 2025
 
-
-description
-
-responsibilities
+I have assisted on a project examining the differences in research practices for registered reports vs. traditional papers. I have been helping in the stratified sampling process, along with other procedures such as classifying careless responding, and classifying articles as registered reports or traditional papers. 
 
 
 
