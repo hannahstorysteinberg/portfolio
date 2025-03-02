@@ -4,9 +4,17 @@ filters:
   - lightbox
 lightbox: TRUE
 ---
-
+Outside of school, Hannah enjoys rock climbing, baking/cooking, playing board/video games, and ropes courses.
 
 ![USAC Climbing Competition](photo3.jpg){group="my-gallery"}
+
+
+
+
+
+
+
+
 ![Moon Board](photo5.jpg){group="my-gallery"}
 ![Ropes Course in Flagstaff, AZ](photo6.jpeg){group="my-gallery"}
 ![My dog Beowulf](photo7.jpg){group="my-gallery"}
