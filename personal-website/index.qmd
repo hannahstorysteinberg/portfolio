@@ -13,6 +13,9 @@ about:
     - icon: book
       text: Resume
       href: resume2.pdf
+    - icon: github
+      text: GitHub
+      href: https://github.com/hannahstorysteinberg
 ---
 
 Hannah Steinberg is a fourth year at UCLA majoring in Cognitive Science and Statistics. 
